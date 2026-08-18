@@ -3,6 +3,6 @@
 Privacy policy and support pages for the **Task and Rest** Chrome extension — a 5-phase focus timer (Collection, Planning, Action, Analysis, Rest).
 
 - 🔗 [Privacy Policy](https://Lornny.github.io/task-and-rest/privacy.html](https://github.com/Lornny/task-and-rest/blob/main/privacy.html))
-- 🔗 [Support]((https://github.com/Lornny/task-and-rest/issues))
+- 🔗 [Support]([(https://github.com/Lornny/task-and-rest/issues)](https://github.com/Lornny/task-and-rest/issues))
 
 These pages are served via GitHub Pages and linked from the extension's Chrome Web Store listing.
